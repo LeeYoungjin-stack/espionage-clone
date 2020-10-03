@@ -1,0 +1,13 @@
+@import "css/main-header.css";
+
+input:focus {
+  outline: none;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  height: 1000vh;
+}
