@@ -4,10 +4,19 @@ input:focus {
   outline: none;
 }
 
+/*버튼 li표시제거*/
 ul {
   list-style: none;
 }
 
+/* body 길이 늘려서 스크롤되게끔 */
 body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
   height: 1000vh;
+}
+
+.main-header__sitename {
+  margin-top: 20px;
 }

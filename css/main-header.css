@@ -14,12 +14,9 @@
 }
 
 .main-header__button input {
-  float: left;
   vertical-align: middle;
-  width: 60px;
+  width: 150px;
   padding: 0px 5px 1px 5px;
-  text-align: left;
-  line-height: 17px;
   font-size: 12px;
   border: none;
   margin-left: 80px;
